@@ -1,2 +1,2 @@
-# deep-haiku-llama
+# Deep Haiku LLaMa
 Run Deep Haiku using the LLaMa model
